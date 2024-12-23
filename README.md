@@ -29,5 +29,5 @@ Key findings from the analysis:
 - Extreme conditions included rainfall exceeding 200mm and temperatures above 35°C in some months.
 ## Contact
 For questions or suggestions, feel free to reach out:
-- **GitHub**: [Maisha21](https://github.com/Maisha21))
+- **GitHub**: [Maisha21](https://github.com/Maisha21)
 - **Email**: maishasultana0@gmail.com
